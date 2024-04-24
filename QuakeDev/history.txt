@@ -1,0 +1,11 @@
+con_showfps1
+con_showfps 1
+noclip
+godmode
+god
+bsp
+show_rtris 2
+r_showtris 2
+R_showtris 2
+r_showtri 2
+r_showtris 2

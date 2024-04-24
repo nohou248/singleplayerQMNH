@@ -1,0 +1,7 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: NoahHoustonWIPGreyboxmap.map
+Output file: NoahHoustonWIPGreyboxmap.bsp
+
+---- LoadMapFile ----
+************ ERROR ************
+Failed to open NoahHoustonWIPGreyboxmap.map: No such file or directory

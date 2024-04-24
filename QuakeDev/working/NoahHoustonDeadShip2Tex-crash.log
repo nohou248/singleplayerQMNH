@@ -1,0 +1,41 @@
+Renderer info: NVIDIA GeForce GTX 980/PCIe/SSE2 version 4.6.0 NVIDIA 545.92 from NVIDIA Corporation
+Depth buffer bits: 24
+Multisampling enabled
+Adding file system path E:\quakemapWIP248-main\QuakeDev\trenchbroom\defaults\assets
+Adding file system path E:\quakemapWIP248-main\QuakeDev\trenchbroom\defaults\assets
+Adding file system path E:\quakemapWIP248-main\QuakeDev\id1
+Adding file system package PAK0.PAK
+Adding file system package PAK1.PAK
+Loading document from E:\quakemapWIP248-main\QuakeDev\working\testmap.map
+Loaded entity definition file Quake.fgd
+Loading palette file gfx\palette.lmp
+Loaded texture collection '..\wads\id1.wad' in 153ms
+Loaded E:\quakemapWIP248-main\QuakeDev\working\testmap.map in 486ms
+Adding file system path E:\quakemapWIP248-main\QuakeDev\trenchbroom\defaults\assets
+Adding file system path E:\quakemapWIP248-main\QuakeDev\trenchbroom\defaults\assets
+Adding file system path E:\quakemapWIP248-main\QuakeDev\id1
+Adding file system package PAK0.PAK
+Adding file system package PAK1.PAK
+Creating new document
+Loaded entity definition file Quake.fgd
+Loading palette file gfx\palette.lmp
+Adding file system path E:\quakemapWIP248-main\QuakeDev\trenchbroom\defaults\assets
+Adding file system path E:\quakemapWIP248-main\QuakeDev\trenchbroom\defaults\assets
+Adding file system path E:\quakemapWIP248-main\QuakeDev\id1
+Adding file system package PAK0.PAK
+Adding file system package PAK1.PAK
+Loading document from E:\quakemapWIP248-main\QuakeDev\working\NoahHoustonDeadShip2.map
+Loaded entity definition file Quake.fgd
+Loading palette file gfx\palette.lmp
+Loaded texture collection '..\wads\prototype_1_3.wad' in 65ms
+Loaded texture collection '..\wads\decon.wad' in 69ms
+Loaded E:\quakemapWIP248-main\QuakeDev\working\NoahHoustonDeadShip2.map in 228ms
+Adding file system path E:\quakemapWIP248-main\QuakeDev\trenchbroom\defaults\assets
+Adding file system path E:\quakemapWIP248-main\QuakeDev\trenchbroom\defaults\assets
+Adding file system path E:\quakemapWIP248-main\QuakeDev\id1
+Adding file system package PAK0.PAK
+Adding file system package PAK1.PAK
+Loading document from E:\quakemapWIP248-main\QuakeDev\working\NoahHoustonDeadShip2Tex.map
+Loaded entity definition file Quake.fgd
+Loading palette file gfx\palette.lmp
+Loaded texture collection '..\wads\oxymoron.wad' in 19ms

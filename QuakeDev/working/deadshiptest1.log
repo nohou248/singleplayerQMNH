@@ -1,0 +1,61 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: deadshiptest1.map
+Output file: deadshiptest1.bsp
+
+---- LoadMapFile ----
+         1062 faces
+          177 brushes
+           86 entities
+            5 unique texnames
+           57 texinfo
+
+Opened WAD: ../wads/prototype_1_3.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+          174 brushes
+          140 planes
+---- CSGFaces ----
+         1044 brushfaces
+         1040 csgfaces
+          760 mergedfaces
+---- SolidBSP ----
+         1253 split nodes
+          518 solid leafs
+          733 empty leafs
+            3 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         2289 leaffaces
+         2223 nodefaces
+---- Portalize ----
+          736 vis leafs
+          736 vis clusters
+         1746 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (1856 -800 144), no filling performed.
+Leak file written to deadshiptest1.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+Processing hull 2...
+---- WriteBSPFile ----
+Wrote deadshiptest1.bsp
+          233 planes             4660
+         2861 vertexes          34332
+         1271 nodes             30504
+           51 texinfo            2040
+         2241 faces             44820
+          889 clipnodes          7112
+          755 leafs             21140
+         2307 marksurfaces       4614
+         8964 surfedges         35856
+         5885 edges             23540
+            5 textures          76384
+              lightdata             0
+              visdata               0
+              entdata            4933
+
+0.257 seconds elapsed
+Peak memory usage: 10476730 (10.0M)
