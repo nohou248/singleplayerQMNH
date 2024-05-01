@@ -4,59 +4,61 @@ Output file: NoahHoustonSingleplayerGreybox.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         1386 faces
-          231 brushes
-           69 entities
-           11 unique texnames
-          275 texinfo
+         1986 faces
+          331 brushes
+          113 entities
+           14 unique texnames
+          375 texinfo
 
 Opened WAD: ../wads/prototype_1_3.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          204 brushes
-          221 planes
+          288 brushes
+          292 planes
 ---- CSGFaces ----
-         1224 brushfaces
-         1122 csgfaces
-          979 mergedfaces
+         1728 brushfaces
+         1590 csgfaces
+         1400 mergedfaces
 ---- SolidBSP ----
-         1501 split nodes
-          600 solid leafs
-          893 empty leafs
-            9 water leafs
+         2069 split nodes
+          821 solid leafs
+         1238 empty leafs
+           11 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         2817 leaffaces
-         2738 nodefaces
+         3760 leaffaces
+         3642 nodefaces
 ---- Portalize ----
-          902 vis leafs
-          902 vis clusters
-         2532 vis portals
+         1249 vis leafs
+         1249 vis clusters
+         3795 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (-1632 -1376 -80), no filling performed.
+*** WARNING 10: Reached occupant at (-400 -1920 744), no filling performed.
 Leak file written to NoahHoustonSingleplayerGreybox.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
+*** WARNING 10: Reached occupant at (1056 -32 1488), no filling performed.
 Processing hull 2...
+*** WARNING 10: Reached occupant at (1056 -32 1488), no filling performed.
 ---- WriteBSPFile ----
 Wrote NoahHoustonSingleplayerGreybox.bsp
-          428 planes             8560
-         3646 vertexes          43752
-         1663 nodes             39912
-          232 texinfo            9280
-         2912 faces             58240
-         1144 clipnodes          9152
-         1065 leafs             29820
-         2991 marksurfaces       5982
-        11643 surfedges         46572
-         7496 edges             29984
-           13 textures         140656
+          584 planes            11680
+         4917 vertexes          59004
+         2327 nodes             55848
+          333 texinfo           13320
+         3922 faces             78440
+         3939 clipnodes         31512
+         1508 leafs             42224
+         4040 marksurfaces       8080
+        15683 surfedges         62732
+        10090 edges             40360
+           17 textures         166672
               lightdata             0
               visdata               0
-              entdata            5326
+              entdata            8453
 
-0.327 seconds elapsed
-Peak memory usage: 13041862 (12.4M)
+0.423 seconds elapsed
+Peak memory usage: 19091480 (18.2M)
